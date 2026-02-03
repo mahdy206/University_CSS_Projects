@@ -131,9 +131,9 @@ car-website/
 
 ### For Developers:
 1. All pages are linked and fully functional
-2. Modify `css/style.css` for design changes
-3. Update `js/cars.js` to add/modify car inventory
-4. Customize `js/main.js` for functionality changes
+2. Modify `style.css` for design changes
+3. Update `cars.js` to add/modify car inventory
+4. Customize `main.js` for functionality changes
 5. Each page is independent but shares common assets
 
 ## 📱 Responsive Design
