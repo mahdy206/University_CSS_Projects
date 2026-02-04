@@ -146,10 +146,8 @@ plant_dataset/
 
 ### Training the Model
 
-1. **Update the data path in the notebook**
-```python
-data = r'path/to/your/plant_dataset'
-```
+1. **Data Source**
+  https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data?select=color
 
 2. **Run the notebook cells sequentially**
    - Data preprocessing and augmentation
@@ -314,8 +312,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [PlantVillage Dataset](https://www.tensorflow.org/datasets/catalog/plant_village)
-- Base model: MobileNetV2 by Google
+- Dataset source: [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data?select=color)
+- Base model: Mobv2 
+- tflife : model.tflite
 - Framework: TensorFlow/Keras
 
 ## 📧 Contact
