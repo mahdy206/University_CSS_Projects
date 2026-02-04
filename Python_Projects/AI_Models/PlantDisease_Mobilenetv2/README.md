@@ -314,8 +314,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [PlantVillage Dataset](https://www.tensorflow.org/datasets/catalog/plant_village)
-- Base model: MobileNetV2 by Google
+- Dataset source: [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data?select=color)
+- Base model: MobV2
+- tf lite : model.tflite
 - Framework: TensorFlow/Keras
 
 ## 📧 Contact
