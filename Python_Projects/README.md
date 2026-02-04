@@ -26,6 +26,7 @@ The dataset contains transactional data from an online retail store, including:
 - **Product information**: Stock codes, descriptions, quantities, and unit prices
 - **Customer data**: Customer IDs and country information
 - **Calculated metrics**: Revenue per transaction
+- **Data source**: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ## 🛠️ Technologies & Libraries
 
@@ -142,8 +143,6 @@ The dataset contains transactional data from an online retail store, including:
 
 ## 🔍 Key Insights & Findings
 
-*[This section can be customized based on your specific findings]*
-
 - Identified distinct customer segments with varying purchasing behaviors
 - Discovered seasonal patterns affecting revenue
 - Highlighted top revenue-generating products and customers
@@ -162,22 +161,11 @@ The project includes comprehensive visualizations:
 
 ## 🚀 How to Run
 
-```bash
-# Clone the repository
-git clone [your-repo-url]
-
-# Install required libraries
-pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy
-
-# Open the Jupyter notebook
-jupyter notebook Data_Analysis_Final_Project_.ipynb
-```
-
 ## 💡 Skills Demonstrated
 
 - **Data Cleaning**: Comprehensive data wrangling and preprocessing
 - **Statistical Analysis**: Probability theory and hypothesis testing
-- **Exploratory Data Analysis**: In-depth pattern discovery
+- **Exploratory Data Analysis(EDA)**: In-depth pattern discovery
 - **Feature Engineering**: Creating valuable features from raw data
 - **Machine Learning**: Dimensionality reduction and clustering
 - **Data Visualization**: Clear and insightful visual communication
@@ -188,7 +176,7 @@ jupyter notebook Data_Analysis_Final_Project_.ipynb
 ```
 ├── Data_Analysis_Final_Project_.ipynb    # Main analysis notebook
 ├── README.md                              # Project documentation
-└── data/                                  # Dataset (if included)
+└── [data/]:(https://www.kaggle.com/datasets/carrie1/ecommerce-data)                                  # Dataset (if included)
 ```
 
 ## 🎓 Learning Outcomes
@@ -203,14 +191,9 @@ This project showcases practical application of:
 
 Feel free to reach out for questions or collaboration opportunities!
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [Your Email]
+- **LinkedIn**: [www.linkedin.com/in/mohamedmahdy206]
+- **GitHub**: [https://github.com/mahdy206]
+- **Email**: [mmahdy935@gmail.com]
+- **Portfolio**: [https://mahdy206.github.io/]
 
-## 📄 License
-
-[Specify your license, e.g., MIT License]
-
----
-
-*This project was completed as part of [course/program name if applicable] demonstrating comprehensive data analysis and machine learning skills.*
+*This project was completed as part of [Data Analysis Course] demonstrating comprehensive data analysis and machine learning skills.*
